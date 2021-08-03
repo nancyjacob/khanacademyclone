@@ -8,19 +8,23 @@ body {
     height: 600px;
     margin: auto;
 }
-h1 {
+h3{
+    color:#000061;
+    font-family: monospace; 
+}
+p {
     text-align: center;
-    font-family: Lobster, cursive;;
-    color:rgb(18, 18, 134);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
     font-size: 24px;
     display: block;
     margin: auto;
 }
-p{
+h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     color: #000024;
-    font-family: Lobster, cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 0px;
     display: block;
     text-transform:uppercase;
